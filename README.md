@@ -1,4 +1,3 @@
-# Watson-Assistant-Speech-to-text
 # Introduction
 
 *Make an assistant with voice*- Tutorial created by Ahiram Cruz M.
